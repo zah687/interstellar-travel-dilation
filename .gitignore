@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# ignores compiled python bytecode
+travel
+travel.dSYM/
+# ignores compiled travel binary
