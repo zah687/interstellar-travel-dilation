@@ -1,0 +1,7 @@
+=== Valid: Destination 1 at 50% speed ===
+Moon (4.06e-08 ly) at 50% of light speed: Earth time: 2.56248 seconds | Ship time: 2.21917 seconds
+=== Valid: Destination 7 at 80% speed ===
+Proxima Centauri (4.24 ly) at 80% of light speed: Earth time: 5.3 years | Ship time: 3.18 years
+=== Invalid: Speed 150% (over 100%) ===
+=== Invalid: Speed -10% (negative) ===
+=== Invalid: Destination 99 ===
